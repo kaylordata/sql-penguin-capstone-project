@@ -17,3 +17,4 @@ plt.title("Gentoo Penguins Body Mass (g) Histogram")
 
 # display the figure
 plt.show()
+
